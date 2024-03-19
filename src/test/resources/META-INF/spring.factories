@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = com.yasobu.yapam.\
+    config.TestContainersSpringContextCustomizerFactory,com.yasobu.yapam.config.\
+    KafkaTestContainersSpringContextCustomizerFactory
